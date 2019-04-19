@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_p0ez0F90EemIj-_e-XrroA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_p0ez0V90EemIj-_e-XrroA" comment="" name="host" prompt="host?" promptNeeded="false" type="id_String" value="103.249.120.58"/>
+  <contextParameter xmi:id="_p0ez0l90EemIj-_e-XrroA" comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_p0ez0190EemIj-_e-XrroA" comment="" name="username" prompt="username?" promptNeeded="false" type="id_String" value="DRC_DEV_TEAM"/>
+  <contextParameter xmi:id="_p0ez1F90EemIj-_e-XrroA" comment="" name="password" prompt="password?" promptNeeded="false" type="id_String" value="DRC_DEV_TEAM@786"/>
+  <contextParameter xmi:id="_p0ez1V90EemIj-_e-XrroA" comment="" name="schema_ref" prompt="schema_ref?" promptNeeded="false" type="id_String" value="Ref"/>
+  <contextParameter xmi:id="_p0ez1l90EemIj-_e-XrroA" comment="" name="schema_vat" prompt="schema_vat?" promptNeeded="false" type="id_String" value="Vat"/>
+  <contextParameter xmi:id="_p0ez1190EemIj-_e-XrroA" comment="" name="schema_dbo" prompt="schema_dbo?" promptNeeded="false" type="id_String" value="dbo"/>
+  <contextParameter xmi:id="_p0ez2F90EemIj-_e-XrroA" comment="" name="database" prompt="database?" promptNeeded="false" type="id_String" value="DRC-QA"/>
+  <contextParameter xmi:id="_p0ez2V90EemIj-_e-XrroA" comment="" name="host_stg" prompt="host_stg?" promptNeeded="false" type="id_String" value="172.16.3.16"/>
+  <contextParameter xmi:id="_p0ez2l90EemIj-_e-XrroA" comment="" name="port_stg" prompt="port_stg?" promptNeeded="false" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_p0ez2190EemIj-_e-XrroA" comment="" name="username_stg" prompt="username_stg?" promptNeeded="false" type="id_String" value="DRC_DEV_TEAM"/>
+  <contextParameter xmi:id="_p0ez3F90EemIj-_e-XrroA" comment="" name="password_stg" prompt="password_stg?" promptNeeded="false" type="id_String" value="DRC_DEV_TEAM@786"/>
+  <contextParameter xmi:id="_p0ez3V90EemIj-_e-XrroA" comment="" name="database_stg" prompt="database_stg?" promptNeeded="false" type="id_String" value="DRC-Report-DB"/>
+  <contextParameter xmi:id="_p0ez3l90EemIj-_e-XrroA" comment="" name="host_dw" prompt="host_dw?" promptNeeded="false" type="id_String" value="172.16.3.16"/>
+  <contextParameter xmi:id="_p0ez3190EemIj-_e-XrroA" comment="" name="port_dw" prompt="port_dw?" promptNeeded="false" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_p0ez4F90EemIj-_e-XrroA" comment="" name="username_dw" prompt="username_dw?" promptNeeded="false" type="id_String" value="DRC_DEV_TEAM"/>
+  <contextParameter xmi:id="_p0ez4V90EemIj-_e-XrroA" comment="" name="password_dw" prompt="password_dw?" promptNeeded="false" type="id_String" value="DRC_DEV_TEAM@786"/>
+  <contextParameter xmi:id="_p0ez4l90EemIj-_e-XrroA" comment="" name="database_dw" prompt="database_dw?" promptNeeded="false" type="id_String" value="DRC-Report-Dev"/>
+  <contextParameter xmi:id="_uRpS4GBJEem-0vFkzhqyNg" comment="" name="schema_stg" prompt="schema_stg?" promptNeeded="false" type="id_String" value="Staging"/>
+</talendfile:ContextType>

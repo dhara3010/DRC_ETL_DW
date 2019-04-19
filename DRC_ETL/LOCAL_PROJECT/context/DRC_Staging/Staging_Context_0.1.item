@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_p0k6cF90EemIj-_e-XrroA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_p0k6cV90EemIj-_e-XrroA" comment="" name="JobRunDate" prompt="JobRunDate?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_p0k6cl90EemIj-_e-XrroA" comment="" name="MaxDate" prompt="MaxDate?" promptNeeded="false" type="id_Date" value=""/>
+  <contextParameter xmi:id="_p0k6c190EemIj-_e-XrroA" comment="" name="query" prompt="query?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_p0k6dF90EemIj-_e-XrroA" comment="" name="JobName" prompt="JobName?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
